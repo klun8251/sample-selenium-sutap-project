@@ -1,0 +1,4 @@
+com\sysco\qe\tests\LoginTest.class
+com\sysco\qe\util\TestBase.class
+com\sysco\qe\util\TestFeatures.class
+com\sysco\qe\util\TestModules.class
